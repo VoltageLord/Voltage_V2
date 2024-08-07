@@ -1,3 +1,3 @@
 {
-	"name": "PREXZY Bot Multi Device "
+	"name": "Voltage_V2 Multi Device "
 }
