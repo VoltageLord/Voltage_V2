@@ -58,7 +58,7 @@ const xtime = moment.tz('Africa/Lagos').format('HH:mm:ss')
         const xdate = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
         const time2 = moment().tz('Africa/Lagos').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `Good Night 🌌`
+var xeonytimewisher = `Good Night 🤗`
  }
  if(time2 < "19:00:00"){
 var xeonytimewisher = `Good Evening 🌃`
