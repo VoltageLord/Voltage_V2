@@ -10,9 +10,10 @@
    
    
    
- PREXZY BUG BOT
+ Voltage_V2
 ### this code copy from Prexzy all credits for him
 
+### TERMUX DEPLOYMENT METHOD 
 ```
 atp update
    
@@ -51,3 +52,4 @@ yarn install
 ```
 npm start
 ```
+### OTHER DEPLOYMENT METHOD COMING SOON
